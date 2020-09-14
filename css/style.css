@@ -1,0 +1,39 @@
+body {
+	background-color: #F5F5DC
+}
+h1 {
+	color: black;
+}
+h4 {
+	color: black;
+}
+.vloot1 {
+	float: left;
+}
+.vloot2 {
+	float: right;
+}
+.vloot3 {
+	float: left;
+}
+.vloot1 {
+  margin: 5px 10px;
+}
+.vloot2 {
+	margin: 5px 10px
+}
+.vloot3 {
+	margin: 5px 10px
+}
+.vloot2 {
+	padding: 15px
+}
+.vloot1{
+	  border: 10px solid black
+	}
+.vloot2{
+	  border: 10px solid black
+	}
+.vloot3{
+	  border: 10px solid black
+	}
